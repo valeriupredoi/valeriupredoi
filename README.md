@@ -4,9 +4,9 @@ Hello, I am a Reserach Software Engineer at [NCAS-CMS](https://ncas.ac.uk/our-se
 
 [![V's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=valeriupredoi&count_private=true&theme=tokyonight&showicons=true)]()
 
+<!--
 [![V's GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriupredoi&langs_count=5&theme=tokyonight)]()
 
-<!--
 **valeriupredoi/valeriupredoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
