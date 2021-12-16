@@ -1,5 +1,8 @@
 ## Valeriu Predoi (V)
 
+## 🎄 Season's Greetings 🎄
+**I am off on baby Jesus holidays until January 5th, 2022! Happy holidays and be safe!**
+
 Hello, I am a Reserach Software Engineer at [NCAS-CMS](https://ncas.ac.uk/our-services/computer-modelling-and-data/computational-modelling-services/) at the [University of Reading, Department of Meteorology](https://www.reading.ac.uk/met/); I am also a [UKESM](https://ukesm.ac.uk/) Core Developer, and an [ESMValTool](https://github.com/ESMValGroup/ESMValTool) Core Developer.
 
 [![V's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=valeriupredoi&count_private=true&theme=tokyonight&showicons=true)]()
