@@ -1,6 +1,6 @@
 ## Valeriu Predoi (V)
 
-![**Standing with Ukraine**](https://en.wikipedia.org/wiki/Flag_of_Ukraine#/media/File:Flag_of_Ukraine.svg)
+![**Standing with Ukraine**](https://github.com/valeriupredoi/valeriupredoi/blob/main/ukraine.png)
 
 Hello, I am a Reserach Software Engineer at [NCAS-CMS](https://ncas.ac.uk/our-services/computer-modelling-and-data/computational-modelling-services/) at the [University of Reading, Department of Meteorology](https://www.reading.ac.uk/met/); I am also a [UKESM](https://ukesm.ac.uk/) Core Developer, and an [ESMValTool](https://github.com/ESMValGroup/ESMValTool) Core Developer.
 
