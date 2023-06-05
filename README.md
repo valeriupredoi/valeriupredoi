@@ -1,6 +1,7 @@
 ## Valeriu Predoi (V)
 
 ![**Standing with Ukraine**](https://github.com/valeriupredoi/valeriupredoi/blob/main/ukraine.png)
+![**24h Le Mans Centenary**](https://github.com/valeriupredoi/valeriupredoi/blob/main/2hLM.png)
 
 Hello, I am a Reserach Software Engineer at [NCAS-CMS](https://ncas.ac.uk/our-services/computer-modelling-and-data/computational-modelling-services/) at the [University of Reading, Department of Meteorology](https://www.reading.ac.uk/met/); I am also a [UKESM](https://ukesm.ac.uk/) Core Developer, and an [ESMValTool](https://github.com/ESMValGroup/ESMValTool) Core Developer.
 
